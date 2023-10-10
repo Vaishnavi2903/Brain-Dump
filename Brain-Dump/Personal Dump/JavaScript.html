@@ -4,6 +4,22 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>JavaScript Notes</title>
+    <script defer>
+      constbackpack = {
+        name: "Demo Backpack",
+        color: "yellow",
+      };
+    </script>
+    <style>
+      .info {
+        font-style: italic;
+        background-color: #04abff;
+        border-left: 6px solid #04abff;
+      }
+      .note1 {
+        color: honeydew;
+      }
+    </style>
   </head>
   <body>
     <h1>JavaScript</h1>
@@ -24,7 +40,7 @@
       </li>
       <li>
         The backpack obviously requires a place, maybe a box. So, we use
-        variable, such as <code><mark>const backpack = {</mark></code
+        variable, such as <code><mark>constbackpack = {</mark></code
         >. The variable that we are using here is <strong>Constant</strong>.
       </li>
       <li>
@@ -35,9 +51,38 @@
           alt="JavaScript container format"
           height="50px"
           width="250px"
+          id="figure 1"
         />
       </li>
     </ul>
-    <p>Everything that is on the</p>
+    <p>
+      When we create an object, we want to improve it and for that we may want
+      to change its property. But, we will not remove or change the object.<mark
+        >Therefore, we use the Constant variable to denote the object remains
+        constant. Most objects in JavaScripts are constants.</mark
+      >
+    </p>
+    <h4>Object Properties</h4>
+    <p>
+      Literally mean the properties of an object. Define the different
+      properties of an object
+    </p>
+    <ul>
+      <li>
+        The correct way of writing the properties is explained in the picture
+        <a href="./Screenshot 2023-10-10 at 7.26.41 PM.png">here</a>.
+      </li>
+      <li>Avoid code issues by using camelCase for property names.</li>
+      <li>
+        Write each property in a different line. Seperate each property with a
+        comma
+      </li>
+    </ul>
+    <div class="info">
+      <p class="note1">
+        <strong>Note!</strong> use <code>console.log(object)</code> to call the
+        object on console by default
+      </p>
+    </div>
   </body>
 </html>
