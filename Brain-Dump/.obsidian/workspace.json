@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ae85810632801618",
+        "id": "e975a1394c4112c3",
         "type": "tabs",
         "children": [
           {
-            "id": "ec1f3a5bef2d5f4c",
+            "id": "4f1773f3e9e33383",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal Dump/JavaScript.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Dump/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Dump/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal Dump/JavaScript.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec1f3a5bef2d5f4c",
+  "active": "4f1773f3e9e33383",
   "lastOpenFiles": [
-    "Screenshot 2023-10-10 at 7.26.41 PM.png",
-    "Personal Dump",
-    "Personal Dump/JavaScript.md"
+    "Screenshot 2023-10-10 at 7.26.41 PM 1.png.md",
+    "Personal Dump/JavaScript.md",
+    "Personal Dump/Screenshot 2023-10-10 at 7.26.41 PM.png",
+    "Personal Dump/Screenshot 2023-10-10 at 7.26.41 PM 1.png",
+    "Personal Dump"
   ]
 }
